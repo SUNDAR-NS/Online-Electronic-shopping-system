@@ -27,7 +27,7 @@ This system provides a platform for users to browse electronic products and make
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/SUNDAR-NS/Online-Electronic-Shopping-system.git
+    git clone https://github.com/SUNDAR-NS/Online-Electronic-shopping-system.git
     ```
 
 2. **Database Setup**
