@@ -27,7 +27,7 @@ This system provides a platform for users to browse electronic products and make
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/Bala1703/Online-Electronic-Shopping-System.git
+    git clone https://github.com/SUNDAR-NS/Online-Electronic-Shopping-system.git
     ```
 
 2. **Database Setup**
@@ -51,5 +51,5 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any issues or questions, please contact the project maintainer at [your-email@example.com].
+For any issues or questions, please contact the project maintainer at [sabarisundar2003@gmail.com].
 
